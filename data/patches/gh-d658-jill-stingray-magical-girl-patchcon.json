@@ -1,0 +1,103 @@
+{
+	"id": -1,
+	"name": "Jill Stingray (Magical Girl Patchcon)",
+	"description": "Jill Stingray is the main character of the visual novel \"VA-11 Hall-A: Cyberpunk Bartender Action\". Shown wearing the alternate costume 'Magical Girl Julianne' she received in the game Girls' Frontline during a collaboration between the two games.",
+	"links": {
+		"subreddit": [
+			"waifubartending"
+		],
+		"discord": [
+			"WUzkRXkm"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1287,
+				364
+			],
+			[
+				1311,
+				364
+			],
+			[
+				1311,
+				362
+			],
+			[
+				1312,
+				362
+			],
+			[
+				1312,
+				361
+			],
+			[
+				1313,
+				361
+			],
+			[
+				1313,
+				360
+			],
+			[
+				1314,
+				360
+			],
+			[
+				1314,
+				359
+			],
+			[
+				1316,
+				359
+			],
+			[
+				1316,
+				338
+			],
+			[
+				1314,
+				338
+			],
+			[
+				1314,
+				337
+			],
+			[
+				1313,
+				337
+			],
+			[
+				1313,
+				336
+			],
+			[
+				1312,
+				336
+			],
+			[
+				1312,
+				335
+			],
+			[
+				1311,
+				335
+			],
+			[
+				1311,
+				333
+			],
+			[
+				1287,
+				333
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1302,
+			349
+		]
+	}
+}
